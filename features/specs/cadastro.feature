@@ -16,15 +16,15 @@ Esquema do Cenário: CT001 Cadastrar medicamento
     Então produto será cadastrado
 
     Exemplos:
-    |nome                   | codigo | fabricante      |descricao  |preco   |tipo               |status     |
-    | "Medicamento 1"       | "19283765"   | "Fabricante 01" | "1 item"  | "1,00" | "Medicamento"     | "Ativo"   |
-    #| "Material 1"          | "0211111111"   | "Fabricante 02" | "1 item"  | "1,00" | "Material Médico" | "Inativo" |
-    #| "Medicamento 2"       | "03"   | "Fabricante 03" | "1 item"  | "1,00" | "Medicamento"     | "Ativo"   |
-    #| "Material 2"          | "04"   | "Fabricante 04" | "1 item"  | "1,00" | "Material Médico" | "Inativo" |
-    #| "Medicamentos 3"      | "05"   | "Fabricante 05" | "1 item"  | "1,00" | "Medicamento"     | "Ativo"   |
-    #| "Material 3"          | "06"   | "Fabricante 06" | "1 item"  | "1,00" | "Material Médico" | "Inativo" |
-    #| "Medicamentos 4"      | "07"   | "Fabricante 07" | "1 item"  | "1,00" | "Material Médico" | "Ativo"   |
-    #| "Material 4"          | "08"   | "Fabricante 08" | "1 item"  | "1,00" | "Medicamento"     | "Inativo" |
-    #| "Medicamentos 5"      | "09"   | "Fabricante 09" | "1 item"  | "1,00" | "Material Médico" | "Ativo"   |
-    #| "Material 5"          | "10"   | "Fabricante 10" | "1 item"  | "1,00" | "Medicamento"     | "Inativo" |
-    #| "Medicamentos 6"      | "11"   | "Fabricante 11" | "1 item"  | "1,00" | "Material Médico" | "Ativo"   |
+    |nome             | codigo        | fabricante      |descricao  |preco   |tipo               |status     |
+    | "Produto"       | "1111222211"  | "Fabricante 01" | "1 item"  | "1,00" | "Medicamento"     | "Ativo"   |
+    #| "Produto 1"     | "1111222212"  | "Fabricante 02" | "1 item"  | "1,00" | "Material Médico" | "Inativo" |
+    #| "Produto 2"     | "1111222213"  | "Fabricante 03" | "1 item"  | "1,00" | "Medicamento"     | "Ativo"   |
+    #| "Produto 3"     | "1111222214"  | "Fabricante 04" | "1 item"  | "1,00" | "Material Médico" | "Inativo" |
+    #| "Produto 4"     | "1111222215"  | "Fabricante 05" | "1 item"  | "1,00" | "Medicamento"     | "Ativo"   |
+    #| "Produto 5"     | "1111222216"  | "Fabricante 06" | "1 item"  | "1,00" | "Material Médico" | "Inativo" |
+    #| "Produto 6"     | "1111222217"  | "Fabricante 07" | "1 item"  | "1,00" | "Material Médico" | "Ativo"   |
+    #| "Produto 7"     | "1111222218"  | "Fabricante 08" | "1 item"  | "1,00" | "Medicamento"     | "Inativo" |
+    #| "Produto 8"     | "1111222219"  | "Fabricante 09" | "1 item"  | "1,00" | "Material Médico" | "Ativo"   |
+    #| "Produto 9"     | "1111222210"  | "Fabricante 10" | "1 item"  | "1,00" | "Medicamento"     | "Inativo" |
+    #| "Produto10"     | "1111222211"  | "Fabricante 11" | "1 item"  | "1,00" | "Material Médico" | "Ativo"   |

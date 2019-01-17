@@ -3,7 +3,7 @@ Dado("que esteja logado") do
 end
 
 E("acessar a tela de cadastrar produto") do
-    homePage.clickListProdutos
+    homePage.clickProdutos
     homePage.clickNovoProduto
 end
 
